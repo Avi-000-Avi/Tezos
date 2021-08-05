@@ -1,20 +1,16 @@
 # Tezos
 
+ 
+ # Development Starter Course Challenge
+ 
+- [ ] Introduction to Tezos
+- [ ] Basic Smart Contract Ingredients
+- [ ] Dapp Starter Recipe
+- [ ] Token Shop LIGO Recipe
 
-Intermediate
-- [ ] An Introduction to Michelson: the Scripting Language of Tezos - Part 1
-- [ ] An Introduction to Michelson: The Scripting Language of Tezos Part 2
-- [ ] An Introduction to Michelson: the Scripting Language of Tezos - Part 3
-- [ ] Read about Smart Contracts on Tezos
-
-Advanced
-- [ ] Non-Fungible Tokens on Tezos Using FA2
-- [ ] A Tutorial Introduction to Michelson & Tezos, Part I: Hello Michelson
-- [ ] A Tutorial Introduction to Michelson & Tezos, Part II: Hello Tezos
-- [ ] Getting started with Ligo
-- [ ] Create smart contracts for the Tezos blockchain using Ligo - Part 1
-- [ ] Create smart contracts for the Tezos blockchain using Ligo - Part 2
-- [ ] Taquito Batch API tutorial
+- [ ] Bounties
+- Your contract can build upon our provided code but have additional features or even have an entirely different purpose (To learn more please check the evaluation criteria in the Rating Rubric below).
+- Write a sentence that explains your contract in your submission. Please include a more detailed description of your contract into the readme file of your repository.
+- Publish your contract on GitHub and submit the link to your GitHub repository.
 
 
-- [x] https://tacode.dev/courses/dev-starter/chapters/a31b419e-402f-4bc6-88ee-1bb59dd250e4
