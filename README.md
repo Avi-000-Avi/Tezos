@@ -15,3 +15,6 @@ Advanced
 - [ ] Create smart contracts for the Tezos blockchain using Ligo - Part 1
 - [ ] Create smart contracts for the Tezos blockchain using Ligo - Part 2
 - [ ] Taquito Batch API tutorial
+
+
+- [x] https://tacode.dev/courses/dev-starter/chapters/a31b419e-402f-4bc6-88ee-1bb59dd250e4
