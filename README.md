@@ -3,8 +3,8 @@
  
  # Development Starter Course Challenge
  
-- [ ] Introduction to Tezos
-- [ ] Basic Smart Contract Ingredients
+- [x] Introduction to Tezos
+- [x] Basic Smart Contract Ingredients
 - [ ] Dapp Starter Recipe
 - [ ] Token Shop LIGO Recipe
 
