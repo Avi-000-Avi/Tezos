@@ -1,5 +1,12 @@
 # Tezos
 
+ # Development Starter Course Challenge
+- [x] Basics of SmartPy
+- [ ] Inter-contract calling
+- [ ] FA2 Tokens
+- [ ] Taquito
+
+
  
  # Development Starter Course Challenge
  
