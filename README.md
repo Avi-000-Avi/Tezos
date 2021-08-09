@@ -1,6 +1,6 @@
 # Tezos
 
- # Development Starter Course Challenge
+ # Cryptoverse Wars 
 - [x] Basics of SmartPy
 - [ ] Inter-contract calling
 - [ ] FA2 Tokens
